@@ -1,4 +1,4 @@
 # Demo Project REAME
 
-This is a thing
+conflict text 
 ...and another.
